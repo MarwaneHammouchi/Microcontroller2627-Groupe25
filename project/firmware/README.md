@@ -32,3 +32,6 @@ Le dossier `.pio/` (fichiers de compilation) est ignoré par git : ne le commite
    `firmware/mon-robot/`), pas la racine du repo : sinon PlatformIO ne détecte pas le projet.
 2. Branchez la carte en USB.
 3. Dans la barre du bas : **✓** pour compiler, **→** pour téléverser, **🔌** pour ouvrir le moniteur série.
+<img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/f6dc77dd-3dd2-4db5-857e-132023d4b897" />
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/960e8bfc-2d23-4cdf-a49f-90ba15fba382" />
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/94722ba0-c80d-4be4-a558-22d4dc37f45d" />
